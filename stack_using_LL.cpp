@@ -81,6 +81,6 @@ int main(){
     cout<<s.peek()<<endl;
     s.pop();
     if(s.isEmpty()){
-        cout<<"Stack is Empty."<<endl;
+        cout<<"The Stack is Empty."<<endl;
     }
 }

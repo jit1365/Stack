@@ -57,11 +57,11 @@ class node{
         }
     }
     bool isEmpty(){
-        if(top==NULL){
-            return true;
+        if(top!=NULL){
+            return false;
         }
         else{
-            return false;
+            return true;
         }
     }
 

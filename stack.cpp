@@ -51,6 +51,7 @@ class stack{
     }
 };
 int main(){
+    /*
     stack s(3);
     s.push(1);
     s.push(2);
@@ -67,11 +68,11 @@ int main(){
     if(s.isEmpty()){
         cout<<"Stack is Empty."<<endl;
     }
+*/
 
 
 
-
-    /*
+    
     //creation of stack
     stack<int> s;
     //push operation
@@ -86,7 +87,7 @@ int main(){
     else{
         cout<<"Stack is not empty."
     }
-    */
+    
 
     return 0;
 }

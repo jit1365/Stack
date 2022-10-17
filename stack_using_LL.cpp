@@ -47,7 +47,7 @@ class node{
             delete toDelete;
         }
     }
-    int peek(){
+    int look(){
         if(top==NULL){
             cout<<"Stack is Empty."<<endl;
             return -1;

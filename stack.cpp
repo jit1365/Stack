@@ -72,6 +72,7 @@ int main(){
     */
 
 
+
     
     //creation of stack
     stack<int> s;

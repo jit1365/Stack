@@ -71,7 +71,7 @@ int main(){
 
 
 
-    /*
+    
     //creation of stack
     stack<int> s;
     //push operation

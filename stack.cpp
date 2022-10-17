@@ -20,7 +20,7 @@ class stack{
             arr[top]=element;
         }
         else{
-            cout<<"Stack  OverFlow"<<endl;
+            cout<<"Stack OverFlow"<<endl;
         }
     }
     void pop(){
@@ -28,7 +28,7 @@ class stack{
             top--;
         }
         else{
-            cout<<"Stack  UnderFlow"<<endl;
+            cout<<"Stack UnderFlow"<<endl;
 
         }
     }
@@ -68,9 +68,9 @@ int main(){
     if(s.isEmpty()){
         cout<<"Stack is Empty."<<endl;
     }
+*/
 
     */
-
 
 
     
